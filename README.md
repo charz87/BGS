@@ -3,7 +3,7 @@ BGS Shop Equip item System
 
 Instructions:
 
- <p> 1.Launch the Game .exe file inside the Build Folder</p>
+ <p> 1.Launch the Game inside Unity, project inside Assets/Scenes/Main (This was due to size of commit)</p>
  <p> 2. Use WASD to move</p>
  <p>3. When close to store (pentagram) Shop menu will appear</p>
  <p>4. Select Item to buy with mouse and click</p>
